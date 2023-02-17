@@ -24,6 +24,7 @@ p:nth-child(2){
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    flex-direction: column;
   }
   .flex-container > div {
     background-color: rgb(104, 114, 109);
@@ -53,6 +54,9 @@ p:nth-child(2){
         text-transform: capitalize;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
+    .flex-container {
+        flex-direction: row;
+      }
 }
 @media (min-width: 1000px){
     html{
