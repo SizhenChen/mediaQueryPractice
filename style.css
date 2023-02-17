@@ -28,6 +28,7 @@ p:nth-child(2){
   }
   .flex-container > div {
     background-color: rgb(152, 163, 158);
+    text-align: center;
     margin: 0rem;
     padding: 2rem;
     padding-left: 4rem;
