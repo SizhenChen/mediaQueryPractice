@@ -28,9 +28,9 @@ p:nth-child(2){
   }
   .flex-container > div {
     background-color: rgb(104, 114, 109);
-    margin: 1rem;
-    padding: 2rem;
-    font-size: 3rem;
+    margin: 4rem;
+    padding: 3rem;
+    font-size: 6rem;
   }
 
 @media (min-width: 480px){
