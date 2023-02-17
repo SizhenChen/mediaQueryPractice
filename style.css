@@ -34,7 +34,7 @@ p:nth-child(2){
 @media (min-width: 768px){
     html{
         font-size: 12pt;
-        font-family: sans-serif;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         text-shadow: 0 0 4px #928e8e;
     }
     h1{
